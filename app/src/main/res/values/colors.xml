@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Cores Oficiais da Logomarca EnviJá -->
+    <color name="envija_roxo">#580B7A</color>
+    <color name="envija_roxo_escuro">#3D0656</color>
+    <color name="envija_roxo_claro">#F3E5F5</color>
+    <color name="envija_laranja">#FF9800</color>
+    <color name="envija_laranja_escuro">#E65100</color>
+    <color name="envija_azul_marinho">#000080</color>
+
+    <!-- Fundos e Cartões -->
+    <color name="fundo_tela">#FAF7F2</color>
+    <color name="fundo_card">#FFFFFF</color>
+    <color name="borda_card">#E2DCE8</color>
+    <color name="texto_principal">#1E1B24</color>
+    <color name="texto_secundario">#686073</color>
+</resources>
